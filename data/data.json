@@ -2013,8 +2013,7 @@
             "time": 20,
             "ingredients": [
                 ["black-powder", 5],
-                ["steel-pipe", 5],
-                ["beacon", 1]
+                ["steel-pipe", 10]
             ],
             "product": ["nobelisk", 1],
             "byproduct": ["copper-ingot", 999]
